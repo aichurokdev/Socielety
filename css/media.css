@@ -1,0 +1,762 @@
+@media (max-width: 1400px) {
+    .container {
+        width: 85%;
+    }
+}
+@media  (max-width: 1200px) {
+    .nav a {
+        font-size: 15px;
+    }
+    .nav button {
+        width: 150px;
+    }
+    .hero h1 {
+        font-size: 50px;
+    }
+    .hero-text {
+        font-size: 14px;
+    }
+    .hero button {
+        width: 160px;
+    }
+
+    .hero {
+        padding: 50px 0;
+    }
+
+    /*#hero {*/
+    /*    margin-top: 63px;*/
+    /*    background: url("../img/Union.png")no-repeat left/cover;*/
+    /*    min-height: 100vh;*/
+    /*}*/
+
+    #trusted {
+        padding: 130px 0 0 0;
+    }
+    .trusted p {
+        font-size: 14px;
+    }
+    .trusted img {
+        width: 200px;
+    }
+    .associated img {
+        width: 400px;
+    }
+    .business-text {
+        font-size: 15px;
+    }
+    .block {
+        width: 230px;
+    }
+    .block h2 {
+        font-size: 19px;
+    }
+    .block p {
+        font-size: 15px;
+    }
+    .vector_2 {
+        width: 400px;
+    }
+    .group_6 {
+        position: absolute;
+        top: -30px;
+    }
+    .ellipse {
+        position: absolute;
+        top: 65px;
+        left: -60px;
+    }
+    .polygon {
+        position: absolute;
+        top: 145px;
+        left: -15px;
+    }
+    .vector_3 {
+        position: absolute;
+        left: 225px;
+        top: -130px;
+    }
+    .text_two {
+        font-size: 18px;
+    }
+    .production-img-own {
+        width: 490px;
+        height: 300px;
+    }
+    .production-img-two {
+        width: 490px;
+        height: 300px;
+    }
+    .rectangle {
+        height: 300px;
+    }
+    .video {
+        position: absolute;
+        top: 90px;
+        left: 210px;
+        width: 110px;
+        height: 110px;
+    }
+    .caret {
+        position: absolute;
+        top: 100px;
+        left: 225px;
+        font-size: 95px;
+    }
+    .frequent p {
+        font-size: 15px;
+    }
+    .frequent-select select {
+        width: 450px;
+    }
+    .platform h1 {
+        font-size: 24px;
+    }
+    .platform-text {
+        font-size: 14px;
+    }
+    .award {
+        width: 130px;
+    }
+}
+@media (max-width: 1024px) {
+    .nav a {
+        font-size: 14px;
+        margin-right: 35px;
+    }
+    .nav button {
+        height: 45px;
+        font-size: 14px;
+    }
+    .hero h1 {
+        font-size: 45px;
+    }
+    .hero-text {
+        font-size: 13px;
+    }
+    .trusted img {
+        width: 170px;
+    }
+    .associated img {
+        width: 350px;
+    }
+    .associated h3 {
+        font-size: 22px;
+    }
+    .associated p {
+        font-size: 13px;
+    }
+    .associated-text button {
+        width: 150px;
+        height: 45px;
+        font-size: 14px;
+    }
+    .business-text {
+        font-size: 14px;
+    }
+    .block {
+        width: 200px;
+    }
+    .block h2 {
+        font-size: 17px;
+    }
+    .block p {
+        font-size: 11px;
+    }
+    .text_two {
+        font-size: 15px;
+    }
+    .group_6 {
+        position: absolute;
+        left: -200px;
+    }
+    .george-btn button {
+        width: 60px;
+        height: 35px;
+    }
+    .production-img-own {
+        width: 420px;
+        height: 280px;
+    }
+    .production-img-two {
+        width: 420px;
+        height: 280px;
+    }
+    .produc-text {
+        font-size: 24px;
+    }
+    .produc-text-two {
+        font-size: 22px;
+    }
+    .rectangle {
+        height: 280px;
+    }
+    .video {
+        position: absolute;
+        top: 85px;
+        left: 170px;
+    }
+    .caret {
+        position: absolute;
+        top: 95px;
+        left: 185px;
+    }
+    .frequent h1 {
+        font-size: 24px;
+    }
+    .frequent p {
+        font-size: 14px;
+    }
+    .frequent-select select {
+        width: 380px;
+        font-size: 14px;
+    }
+    .platform h1 {
+        font-size: 22px;
+    }
+    /*.platform-block {*/
+    /*    display: flex;*/
+    /*    flex-wrap: wrap;*/
+    /*}*/
+    .group_63 {
+        padding-bottom: 17px;
+    }
+    .sas {
+        padding-bottom: 17px;
+    }
+    .award {
+        width: 120px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .award img{
+        width: 90px;
+    }
+    .award h2 {
+        font-size: 17px;
+    }
+    .award p {
+        font-size: 12px;
+    }
+    .subscribe h1{
+        font-size: 24px;
+    }
+    .subscribe p {
+        font-size: 14px;
+    }
+    .input {
+        width: 670px;
+        font-size: 18px;
+    }
+    .footer-block h1 {
+        font-size: 24px;
+    }
+    .footer-block p {
+        font-size: 14px;
+    }
+    .footer-block_2 h2 {
+        font-size: 18px;
+    }
+    .footer-block_2 p {
+        font-size: 13px;
+    }
+    .footer-block_contact h2 {
+        font-size: 18px;
+    }
+    .contact p {
+        font-size: 13px;
+    }
+}
+@media (max-width: 992px) {
+    .hero h1 {
+        font-size: 40px;
+    }
+    .block {
+        width: 180px;
+    }
+    .production-img-own {
+        width: 400px;
+    }
+    .production-img-two {
+        width: 400px;
+    }
+    .frequent-select select {
+        width: 360px;
+    }
+}
+@media (max-width: 768px) {
+    .header {
+        margin-bottom: 0;
+    }
+    .nav {
+        display: none;
+    }
+    .hero {
+        padding-top: 70px;
+    }
+    .hero h1 {
+        font-size: 35px;
+        line-height: 58px;
+    }
+    .hero button {
+        width: 155px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .hero_youtube p {
+        font-size: 12px;
+    }
+    .trusted p {
+        font-size: 12px;
+    }
+    .trusted img {
+        width: 130px;
+    }
+    .associated img {
+        width: 300px;
+    }
+    .associated-text h3 {
+        width: 297px;
+        /*font-size: 15px;*/
+        line-height: 35px;
+    }
+    .associated-text p {
+        width: 256px;
+        margin: 20px 0;
+        /*font-size: 10px;*/
+    }
+    .business-block {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .vector_2 {
+        width: 310px;
+    }
+    .vector_3 {
+        width: 40px;
+        position: absolute;
+        top: -135px;
+        left: 155px;
+    }
+    .group_6 {
+        width: 200px;
+        top: -60px;
+    }
+    .ellipse {
+        width: 60px;
+        position: absolute;
+        top: 15px;
+        left: -75px;
+    }
+    .polygon {
+        width: 25px;
+        position: absolute;
+        top: 80px;
+        left: -30px;
+    }
+    .george-text {
+        position: relative;
+        top: 10px;
+    }
+    .text_own {
+        font-size: 13px;
+    }
+    .text_two {
+        font-size: 13px;
+    }
+    .production-img {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .production-img-own {
+        width: 450px;
+        margin-bottom: 35px;
+        margin-right: 0;
+    }
+    .production-img-two {
+        width: 450px;
+    }
+    .frequent-block {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .select-block {
+        margin-right: 0;
+    }
+    .platform-block {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .award {
+        width: 150px;
+    }
+    .subscribe h1 {
+        font-size: 20px;
+    }
+    .subscribe p {
+        font-size: 13px;
+    }
+    .input {
+        width: 620px;
+        height: 70px;
+        font-size: 16px;
+    }
+    .subscribe-input button {
+        position: absolute;
+        top: 12px;
+        width: 150px;
+        height: 45px;
+        font-size: 14px;
+    }
+    .footer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .footer div {
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 576px) {
+    .hero {
+        padding-top: 30px;
+    }
+    .trusted-website {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .associated {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .associated img {
+        margin-bottom: 30px;
+    }
+    .business-block {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .george {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .george-img {
+        position: relative;
+        top: -180px;
+        left: 150px;
+    }
+    .group_6 {
+        left: -180px;
+    }
+    .george-text {
+        margin: 300px 0 0 30px;
+    }
+    .platform-block {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .award {
+        margin: 30px 25px;
+    }
+    .input {
+        width: 500px;
+    }
+}
+@media (max-width: 480px) {
+    .header h1 {
+        font-size: 25px;
+    }
+    .hero h1 {
+        margin-top: 0;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .george-img {
+        position: relative;
+        left: 150px;
+    }
+    .george-text {
+        margin: 300px 0 0 30px;
+    }
+    .production-img-own {
+        width: 400px;
+        height: 250px;
+    }
+    .production-img-two {
+        width: 400px;
+        height: 250px;
+    }
+    .rectangle {
+        height: 250px;
+    }
+    .video {
+        width: 95px;
+        height: 95px;
+        position: absolute;
+        top: 75px;
+        left: 160px;
+    }
+    .caret {
+        font-size: 85px;
+        position: absolute;
+        top: 82px;
+        left: 173px;
+    }
+}
+@media (max-width: 414px) {
+    .hero h1 {
+        font-size: 25px;
+    }
+    .trusted img {
+        margin-bottom: 25px;
+    }
+    .george-img {
+        position: relative;
+        top: 80px;
+        left: -20px;
+    }
+    .vector_2 {
+        width: 290px;
+    }
+    .george-text {
+        margin: 300px 0 0 20px;
+    }
+    .production h1 {
+        font-size: 20px;
+    }
+    .production p {
+        font-size: 13px;
+    }
+    .production-img-own {
+        width: 350px;
+        height: 220px;
+    }
+    .production-img-two {
+        width: 350px;
+        height: 220px;
+    }
+    .rectangle {
+        height: 220px;
+    }
+    .produc-text {
+        position: absolute;
+        bottom: 45px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .produc-text-two {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .video {
+        width: 85px;
+        height: 85px;
+        position: absolute;
+        top: 65px;
+        left: 140px;
+    }
+    .caret {
+        font-size: 65px;
+        position: absolute;
+        top: 75px;
+        left: 155px;
+    }
+    .frequent-select select {
+        width: 300px;
+        font-size: 13px;
+    }
+    .subscribe h1 {
+        font-size: 17px;
+    }
+    .input {
+        width: 340px;
+        font-size: 14px;
+        padding: 0 25px;
+    }
+    .subscribe-input button {
+        width: 100px;
+        height: 40px;
+        font-size: 12px;
+        position: absolute;
+        top: 15px;
+    }
+}
+@media (max-width: 375px) {
+    .vector_2 {
+        width: 270px;
+    }
+    .vector_3 {
+        position: absolute;
+        top: -144px;
+        left: 115px;
+    }
+    .text_two {
+        font-size: 12px;
+    }
+    .production-img-own {
+        width: 300px;
+        height: 190px;
+    }
+    .production-img-two {
+        width: 300px;
+        height: 190px;
+    }
+    .rectangle {
+        height: 190px;
+    }
+    .video {
+        width: 75px;
+        height: 75px;
+        position: absolute;
+        top: 55px;
+        left: 130px;
+    }
+    .caret {
+        font-size: 60px;
+        position: absolute;
+        top: 62px;
+        left: 142px;
+    }
+    .frequent h1 {
+        font-size: 20px;
+        line-height: 0;
+    }
+    .frequent p {
+        font-size: 13px;
+    }
+    .frequent-select select {
+        width: 260px;
+    }
+    .subscribe h1 {
+        font-size: 15px;
+        line-height: 0;
+    }
+    .input {
+        width: 300px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 320px) {
+    .associated img {
+        width: 250px;
+    }
+    .associated-text h3 {
+        width: 232px;
+    }
+    .associated-text button {
+        width: 120px;
+        height: 40px;
+        font-size: 12px;
+    }
+    .business h1 {
+        font-size: 20px;
+        line-height: 0;
+    }
+    .business-text {
+        font-size: 13px;
+        margin: 30px 0;
+    }
+    .george-img {
+        position: relative;
+        top: -220px;
+        left: 100px;
+    }
+    .group_6 {
+        position: absolute;
+        top: -80px;
+    }
+    .vector_2 {
+        width: 260px;
+    }
+    .vector_3 {
+        width: 30px;
+        position: absolute;
+        top: -135px;
+    }
+    .ellipse {
+        width: 50px;
+        position: absolute;
+        top: -10px;
+    }
+    .polygon {
+        position: absolute;
+        top: 50px;
+        left: -40px;
+    }
+    .text_two {
+        width: 208px;
+        line-height: 20px;
+    }
+    .george-btn button {
+        width: 50px;
+        height: 30px;
+        font-size: 17px;
+    }
+    .production-img-own {
+        width: 263px;
+        height: 160px;
+    }
+    .production-img-two {
+        width: 263px;
+        height: 160px;
+    }
+    .rectangle {
+        height: 160px;
+    }
+    .video {
+        width: 65px;
+        height: 65px;
+        position: absolute;
+        top: 45px;
+        left: 110px;
+    }
+    .caret {
+        font-size: 50px;
+        position: absolute;
+        top: 52px;
+        left: 122px;
+    }
+    .produc-text {
+        font-size: 15px;
+        line-height: 20px;
+        position: absolute;
+        bottom: 30px;
+        left: 15px;
+    }
+    .produc-text-two {
+        font-size: 13px;
+        bottom: 10px;
+        left: 15px;
+    }
+    .frequent-select select {
+        width: 220px;
+    }
+    .subscribe h1 {
+        font-size: 14px;
+    }
+    .input {
+        width: 270px;
+        padding: 20px;
+    }
+    .subscribe-input button {
+        width: 90px;
+    }
+    .footer-block p {
+        font-size: 13px;
+    }
+    .website-icon {
+        font-size: 20px;
+    }
+}
